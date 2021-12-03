@@ -1,0 +1,17 @@
+tests
+tests/*
+env
+env/*
+dist
+dist/*
+swagger_yamltohtml.egg-info
+swagger_yamltohtml.egg-info/*
+src/swagger_yamltohtml/__pycache__
+src/swagger_yamltohtml/__pycache__/*
+index.html
+
+
+
+
+
+

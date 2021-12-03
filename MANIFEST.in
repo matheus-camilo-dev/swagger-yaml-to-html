@@ -1,0 +1,2 @@
+include src/swagger_yamltohtml/static/swagger.html
+global-exclude tests/*
